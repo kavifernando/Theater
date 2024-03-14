@@ -1,0 +1,4 @@
+
+row 1 seats = 12  			now available seats [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+row 2 seats = 16  			now available seats [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+row 2 seats = 16  			now available seats [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
